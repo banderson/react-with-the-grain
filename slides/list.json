@@ -1,7 +1,7 @@
 [
     "index.html",
     "agenda.html",
-    [
+
         "going-with-the-grain-2.md",
         "why-react-functional-1.html",
         "going-with-the-grain-functional.md",
@@ -12,9 +12,8 @@
         "going-with-the-grain-functional-mixin-3.md",
         "going-with-the-grain-functional-mixin-4.md",
         "going-with-the-grain-functional-mixin-wrapper.md",
-        "going-with-the-grain-functional-mixin-wrapper-2.md"
-    ],
-    [
+        "going-with-the-grain-functional-mixin-wrapper-2.md",
+
         "going-with-the-grain-stateless.md",
         "going-with-the-grain-stateless-2.md",
         "going-with-the-grain-stateless-ideal.md",
@@ -23,14 +22,13 @@
         "going-with-the-grain-stateless-container-child.md",
         "going-with-the-grain-stateless-4.md",
         "going-with-the-grain-stateless-5.md",
-        "going-with-the-grain-stateless-6.md"
-    ],
-    [
+        "going-with-the-grain-stateless-6.md",
+
         "going-with-the-grain-explicit.md",
         "going-with-the-grain-explicit-1.md",
         "going-with-the-grain-explicit-2.md",
-        "going-with-the-grain-explicit-7.md"
-    ],
+        "going-with-the-grain-explicit-7.md",
+
     "go-with-the-grain.md",
     "thanks.html",
     "links-and-resources.md"
