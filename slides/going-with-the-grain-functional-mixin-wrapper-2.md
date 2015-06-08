@@ -1,4 +1,4 @@
-# <em class="highlight">Functional > OO</em> Summary
+# <em class="highlight">Functional</em> Summary
 
 * Needs access to internal state? Use mixin
 * Likely base class in the future
