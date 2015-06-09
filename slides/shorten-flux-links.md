@@ -2,6 +2,9 @@
 
 <ul style="font-size: 1.3em; line-height: 1em;">
     <li>
+        Quickest win: Use ES6 via [Babel](https://babeljs.io/)
+    </li>
+    <li>
         [Flux Cargo Culting](https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c)
     </li>
     <li>
