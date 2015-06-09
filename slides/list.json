@@ -25,16 +25,14 @@
     "containers-and-flux.md",
     "containers-and-flux-2.md",
     "clarity-over-brevity.md",
-    "clarity-djikstra.md",
-    "clarity-lost-control.md",
     "going-with-the-grain-explicit.md",
-    "going-with-the-grain-explicit-1.md",
     "going-with-the-grain-explicit-2.md",
     "going-with-the-grain-explicit-2a.md",
-    "brevity-antipatterns.md",
+    "please-shorten-responsibly.md",
     "going-with-the-grain-explicit-7.md",
     "lens-intro.md",
     "go-with-the-grain.md",
     "thanks.html",
-    "links-and-resources.md"
+    "links-and-resources.md",
+    "shorten-flux-links.md"
 ]
