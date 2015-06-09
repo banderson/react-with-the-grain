@@ -1,7 +1,7 @@
 {
-  "name": "reactive-component-based-user-interfaces",
-  "description": "Presentation on 'Reactive, Component-based User Interfaces'",
-  "version": "0.0.0",
+  "name": "react-with-the-grain",
+  "description": "'React: Going with the Grain' Presentation",
+  "version": "0.1.0",
   "author": "Ben Anderson <banderson87@gmail.com>",
   "keywords": [
     "reactive",
@@ -11,16 +11,16 @@
     "react",
     "reactjs"
   ],
-  "homepage": "https://github.com/banderson/reactive-component-ui-presentation",
+  "homepage": "https://github.com/banderson/react-with-the-grain",
   "main": "index.js",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:banderson/reactive-component-ui-presentation.git"
+    "url": "git@github.com:banderson/react-with-the-grain.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/banderson/reactive-component-ui-presentation/issues"
+    "url": "https://github.com/banderson/react-with-the-grain/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.5",
