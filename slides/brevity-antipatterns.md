@@ -5,6 +5,7 @@
 <li class="fragment highlight-red">Config objects that change</li>
 <li class="fragment highlight-green">Config objects that never change</li>
 <li class="fragment highlight-green">Flux Action Creators</li>
+<li class="fragment highlight-green">Managing Children in Libs</li>
 </ul>
 
 note:
