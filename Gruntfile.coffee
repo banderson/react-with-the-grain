@@ -2,7 +2,7 @@
 module.exports = (grunt) ->
 
     grunt.initConfig
-        repo: 'git@github.com:banderson/reactive-component-ui-presentation.git'
+        repo: 'git@github.com:banderson/react-with-the-grain.git'
 
         watch:
 

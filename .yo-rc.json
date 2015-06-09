@@ -5,6 +5,6 @@
     "useSass": false,
     "deployToGithubPages": true,
     "githubUsername": "banderson",
-    "githubRepository": "reactive-component-ui-presentation"
+    "githubRepository": "react-with-the-grain"
   }
 }
