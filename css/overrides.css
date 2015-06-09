@@ -23,9 +23,8 @@
   color: rgba(255,255,255, 0.3);
 }
 
-.highlight-red.visible {
-    /*font-size: 100px !important;*/
-    text-decoration: line-through;
+.antipattern {
+    background-color: rgba(255, 0, 0, 0.8);
 }
 
 .hs {
@@ -42,7 +41,7 @@
     top: 15px;
 }
 
-code {
+code.yup {
     padding-left: 20px !important;
     font-size: 160% !important;
     line-height: 130% !important;
@@ -110,6 +109,7 @@ body {
 
 .reveal h3 {
     font-size: 1.75em;
+    line-height: 1.7em;
 }
 /*.reveal h1 {
   text-shadow: 0px 0px 6px rgba(0, 0, 0, 0.2); }*/
