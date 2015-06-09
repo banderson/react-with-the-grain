@@ -1,6 +1,6 @@
 # <em class="highlight">Functional > OO</em> Wrap it!
 
-<img src="img/mixin-6.png" width="85%">
+<img src="img/mixin-6.png" width="95%">
 
 note:
     Put your speaker notes here.
