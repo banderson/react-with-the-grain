@@ -1,6 +1,6 @@
 ## Please, Shorten <em class="highlight">Responsibly</em>
 
-<ul style="font-size: 1.5em; line-height: 1.3em;" class="fragment">
+<ul style="font-size: 1.5em; line-height: 1.3em;">
     <li>
         Quickest win: Use ES6 via [Babel](https://babeljs.io/)
     </li>
